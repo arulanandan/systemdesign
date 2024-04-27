@@ -1,0 +1,8 @@
+URL Shortener
+
+Functional requirement:
+1. User should be able to provide a long url and get a shortened URL
+2. User provides a short url and it gets redirected to the actual URL
+
+
+Non functional requirements:
